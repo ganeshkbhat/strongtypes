@@ -127,7 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dev-test.py
+/dev-test.py
 ./dev-test.py
-./strongtypes/object.py
-./strongtypes/observer.py
-./strongtypes/string.py
+strongtypes/object.py
+strongtypes/observer.py
+strongtypes/string.py
+dev-test.py
